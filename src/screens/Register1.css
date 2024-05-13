@@ -1,0 +1,7 @@
+.input-area {
+    transition: 0.5s;
+}
+
+.input-area:hover {
+    background-color: antiquewhite;
+}
